@@ -19,12 +19,12 @@ If you correctly installed 1 and 2, you should be able to open a Notebook by goi
 
 <b>I've got Anaconda setup with Python 2.7, can I have both 2.7 and 3.5 at the same time?</b>
 
-Yes, you can install Python 3.5 in a separate environment.
+Yes, you can install Python 3.5 in a separate environment. To do so, go to your Terminal or Prompt and type
 
 ```
 conda create -n python3 python=3.5 anaconda
 ```
-To activate it:
+To activate Python 3.5, type
 
 ```
 source activate python3
