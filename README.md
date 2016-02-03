@@ -17,7 +17,7 @@ If you correctly installed 1 and 2, you should be able to open a Notebook by goi
 
 ## FAQ
 
-<b>Q</b> I've got Anaconda setup with Python 2.7, can I have both 2.7 and 3.5 at the same time?
+<b>I've got Anaconda setup with Python 2.7, can I have both 2.7 and 3.5 at the same time?</b>
 
 Yes, you can install Python 3.5 in a separate environment.
 
@@ -42,7 +42,7 @@ source deactivate
 and you're back to Python 2, just as you were before.
 
 
-<b>Q</b> I've got Anaconda setup with Python 3.5, can I have both 2.7 and 3.5 at the same time?
+<b>I've got Anaconda setup with Python 3.5, can I have both 2.7 and 3.5 at the same time?</b>
 
 Same deal as above, but with the version reversed.
 ```
@@ -50,7 +50,8 @@ conda create -n python2 python=2.7 anaconda
 source activate python2
 ```
 
-<b>Q</b> How should I submit the homeworks?
+<b>How should I submit the homeworks?</b> 
 
+Homeworks usually contain a programming section and a theoretical section. The programming section should be submitted in .ipynb form to baisihad@bc.edu by 8h30AM on their due date. The theoretical section should be submitted in person, at the beginning of class on the due date. Theoretical answers can be written by hand (if legible), or typed in a word processor or (preferrably) $\LaTeX$.
 
 
