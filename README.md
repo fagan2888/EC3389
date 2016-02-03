@@ -17,24 +17,40 @@ If you correctly installed 1 and 2, you should be able to open a Notebook by goi
 
 ## FAQ
 
-<b> I've got Anaconda setup with Python 2.7, can I have both 2.7 and 3.5 at the same time?
+<b>Q</b> I've got Anaconda setup with Python 2.7, can I have both 2.7 and 3.5 at the same time?
 
-Yes.
+Yes, you can install Python 3.5 in a separate environment.
 
-> conda create -n python3 python=3.5 anaconda
-This should install Python 3.5 in a separate environment. To activate it:
+```
+conda create -n python3 python=3.5 anaconda
+```
+To activate it:
 
-> source activate python3
+```
+source activate python3
+```
 This temporarily modifies the PATH so your computer thinks you only have Python 3. Now, if you type 
 
-> ipython notebook
+```
+ipython notebook
+```
 then you should be able to create a Python 3 Notebook, too. Once you're done, you can simply type
 
-> source deactivate
+```
+source deactivate
+```
 and you're back to Python 2, just as you were before.
 
 
-<b> I've got Anaconda setup with Python 3.5, can I have both 2.7 and 3.5 at the same time?
+<b>Q</b> I've got Anaconda setup with Python 3.5, can I have both 2.7 and 3.5 at the same time?
 
-Same deal as above.
+Same deal as above, but with the version reversed.
+```
+conda create -n python2 python=2.7 anaconda
+source activate python2
+```
+
+<b>Q</b> How should I submit the homeworks?
+
+
 
