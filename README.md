@@ -52,6 +52,6 @@ source activate python2
 
 <b>How should I submit the homeworks?</b> 
 
-Homeworks usually contain a programming section and a theoretical section. The programming section should be submitted in .ipynb form to baisihad@bc.edu by 8h30AM on their due date. The theoretical section should be submitted in person, at the beginning of class on the due date. Theoretical answers can be written by hand (if legible), or typed in a word processor or (preferrably) $\LaTeX$.
+Homeworks usually contain a programming section and a theoretical section. The programming section should be submitted in .ipynb form to baisihad@bc.edu by 8h30AM on their due date. The theoretical section should be submitted in person, at the beginning of class on the due date. Theoretical answers can be written by hand (if legible), or typed in a word processor or yet (and preferrably) Latex-compiled PDF.
 
 
