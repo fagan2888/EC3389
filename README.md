@@ -44,7 +44,7 @@ and you're back to Python 2, just as you were before.
 
 <b>I've got Anaconda setup with Python 3.5, can I have both 2.7 and 3.5 at the same time?</b>
 
-Same deal as above, but with the version reversed.
+Same deal as above, but with the version names reversed.
 ```
 conda create -n python2 python=2.7 anaconda
 source activate python2
