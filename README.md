@@ -30,9 +30,14 @@ The installation process is straightforward, usually taking about 15 minutes. If
 If you correctly installed 1 and 2, you should be able to open a Notebook by going to your Terminal (Mac) or Prompt (Windows) and typing "ipython notebook" or "jupyter notebook". You should also be able to open and run the ".ipynb" files above. 
 
 
-## FAQ
+# FAQ
 
-<b>I've got Anaconda setup with Python 2.7, can I have both 2.7 and 3.5 at the same time?</b>
+<b>Q: How should I submit the homeworks?</b> 
+
+Homeworks usually contain a programming section and a theoretical section. The programming section should be submitted in .ipynb form to baisihad@bc.edu by 8h30AM on their due date. The theoretical section should be submitted in person, at the beginning of class on the due date. Theoretical answers can be written by hand (if legible), or typed in a word processor or yet (and preferrably) in Latex compiled to a PDF.
+
+
+<b>Q: I've got Anaconda setup with Python 2.7, can I have both 2.7 and 3.5 at the same time?</b>
 
 Yes, you can install Python 3.5 in a separate environment. To do so, go to your Terminal or Prompt and type
 
@@ -57,7 +62,7 @@ source deactivate
 and you're back to Python 2, just as you were before.
 
 
-<b>I've got Anaconda setup with Python 3.5, can I have both 2.7 and 3.5 at the same time?</b>
+<b>Q: I've got Anaconda setup with Python 3.5, can I have both 2.7 and 3.5 at the same time?</b>
 
 Same deal as above, but with the version names reversed.
 ```
@@ -65,8 +70,6 @@ conda create -n python2 python=2.7 anaconda
 source activate python2
 ```
 
-<b>How should I submit the homeworks?</b> 
 
-Homeworks usually contain a programming section and a theoretical section. The programming section should be submitted in .ipynb form to baisihad@bc.edu by 8h30AM on their due date. The theoretical section should be submitted in person, at the beginning of class on the due date. Theoretical answers can be written by hand (if legible), or typed in a word processor or yet (and preferrably) in Latex compiled to a PDF.
 
 
