@@ -11,7 +11,6 @@ Last Updated: Feb 8th, 2016
 | Jan 25th (Mon)  | Homework 0 (math review) due |
 | Jan 27th (Wed) | Homework 1 handed out |
 | Feb 9th (Tue)  | Homework 1 due |
-| Feb 15th  (Mon) | No class |
 | Feb 17th (Wed) | Homework 2 handed out |
 | Feb 29th (Mon) | Homework 2 due |
 
