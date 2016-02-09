@@ -23,7 +23,7 @@ Students are required to install the following:
 <li>Anaconda for Python 3.4 or higher: https://www.continuum.io/downloads [i.e. NOT version 2.7]
 <li>Jupyter Notebook (a.k.a. IPython Notebook): http://jupyter.readthedocs.org/en/latest/install.html#new-to-python-and-jupyter
 <li>R or RStudio: https://cran.r-project.org/bin/ 
-
+</ul>
 
 The installation process is straightforward, usually taking about 15 minutes. If you have any major issues, let me know at baisihad@bc.edu.
 
