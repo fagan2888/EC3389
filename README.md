@@ -13,7 +13,7 @@ Last Updated: Feb 8th, 2016
 | Feb 9th (Tue)  | Homework 1 due |
 | Feb 15th  (Mon) | No class |
 | Feb 17th (Wed) | Homework 2 handed out |
-| Feb 29nd (Mon) | Homework 2 due |
+| Feb 29th (Mon) | Homework 2 due |
 
 
 # Getting Started
