@@ -1,7 +1,7 @@
 # EC3389 - Big Data
 Files for the course taught at Boston College, Spring 2016
 
-# Syllabus 
+# Calendar
 
 Last Updated: Feb 8th, 2016
 
