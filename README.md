@@ -1,7 +1,18 @@
 # EC3389 - Big Data
 Files for the course taught at Boston College, Spring 2016
 
-## Software requirements
+# Syllabus 
+
+Last Updated: Feb 8th, 2016
+
+Jan 20th (Wed) & First day of classes / Homework 0 (math review) handed out \\
+Jan 25th (Mon) & Homework 0 (math review) due \\
+Jan 27th (Wed) & Homework 1 handed out \\
+Feb 9th (Tue) & Homework 1 due \\
+Feb 17th (Wed) & Homework 2 handed out \\
+Feb 29nd (Mon) & Homework 2 due \\
+
+# Getting Started
 
 Students are required to install the following:
 <ul>
