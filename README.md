@@ -12,8 +12,7 @@ Last Updated: Feb 8th, 2016
 | Feb 9th (Tue)  | Homework 1 due |
 | Feb 29th (Mon) | Homework 2 due |
 | Mar 16th (Wed) | Homework 3 due |
-| Mar 30th (Wed) | Homework 4 due |
-|                | MIDTERM |
+| Mar 30th (Wed) | Homework 4 due and MIDTERM |
 
 
 # Getting Started
