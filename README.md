@@ -9,10 +9,11 @@ Last Updated: Feb 8th, 2016
 | --- | --- |
 | Jan 20th (Wed)  | First day of classes and Homework 0 (math review) handed out |
 | Jan 25th (Mon)  | Homework 0 (math review) due |
-| Jan 27th (Wed) | Homework 1 handed out |
 | Feb 9th (Tue)  | Homework 1 due |
-| Feb 17th (Wed) | Homework 2 handed out |
 | Feb 29th (Mon) | Homework 2 due |
+| Mar 16th (Wed) | Homework 3 due |
+| Mar 30th (Wed) | Homework 4 due |
+|                | MIDTERM |
 
 
 # Getting Started
